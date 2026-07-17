@@ -100,7 +100,7 @@ Completed practical, real-world tasks in **Data Analysis** and **Forensic Techno
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TanayAgrawal20&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanayAgrawal20&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=TanayAgrawal20&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ Completed practical, real-world tasks in **Data Analysis** and **Forensic Techno
 ### 📅 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanayAgrawal20&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanayAgrawal20&theme=minimal&hide_border=true&area=true" width="100%"/>
 </p>
 
 ### 🐍 Contribution Snake
