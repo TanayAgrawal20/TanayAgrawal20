@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5F8A,100:0F2C4C&height=200&section=header&text=Tanay%20Agrawal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20Student%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau&descSize=18&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5F8A,100:0F2C4C&height=200&section=header&text=Tanay%20Agrawal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau&descSize=18&descAlignY=58"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanay-agrawal-6329bb304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
