@@ -8,10 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5F8A&center=true&vCenter=true&width=600&lines=Turning+ambiguous+business+questions+into+clear+insights;7%2C043+telecom+records+%C2%B7+1%2C470+HR+records+%C2%B7+148K%2B+loan+records;Deloitte+Data+Analytics+Job+Simulation+%E2%80%94+Completed"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=2000&color=2C5F8A&center=true&vCenter=true&width=900&lines=Turning+ambiguous+business+questions+into+clear+insights%3B7%2C043+telecom+records+%C2%B7+1%2C470+HR+records+%C2%B7+148K%2B+loan+records%3BDeloitte+Data+Analytics+Job+Simulation+%E2%80%94+Completed"/>
 </p>
 
----
 
 ### 🎯 About Me
 
