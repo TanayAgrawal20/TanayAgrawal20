@@ -1,21 +1,73 @@
-# 💫 About Me:
-I am a passionate and motivated Web Developer at the beginning of my journey in full-stack development, with a strong interest in building practical, real-world applications. I enjoy transforming ideas into functional and user-friendly web solutions using modern technologies.<br><br>I have hands-on experience in developing a full-stack Online Voting System, where I worked on both frontend and backend development, including user authentication, role-based access control, and database management. Through this project, I gained a solid understanding of web application architecture, security considerations, and real-time system design.<br><br>I am continuously learning and improving my skills in HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB, and I am eager to explore advanced concepts such as real-time communication, performance optimization, and scalable system design. My goal is to grow as a professional developer and contribute to meaningful and impactful software projects.
+<h1 align="center">Hi there 👋 I'm Tanay Agrawal</h1>
+<h3 align="center">Data Analytics Student | Turning Messy Data into Clear Decisions</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tanay-agrawal-6329bb304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agrawaltanay21@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TanayAgrawal20&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TanayAgrawal20&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayAgrawal20&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TanayAgrawal20&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanay-agrawal-6329bb304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/agrawal2024/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="mailto:agrawaltanay21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TanayAgrawal20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎯 About Me
+
+I'm a Computer Science undergrad (B.Tech, CSE) specializing in **Data Analytics**, based in Delhi, India. I like taking ambiguous business questions and turning them into structured analyses that stakeholders can actually act on — whether that's a churn dashboard, an attrition model, or a credit risk deep-dive.
+
+I recently completed the **Deloitte Data Analytics Job Simulation**, applying forensic and analytical techniques to real-world scenarios.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Libraries**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**BI & Visualization**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+### 📊 Featured Projects
+
+**[Customer Churn Analysis](https://github.com/TanayAgrawal20/Customer-Churn-Analysis)**
+Analyzed 7,043 telecom accounts to uncover attrition drivers. Found senior citizens churned at nearly 2x the rate of other segments (41.68% vs 23.61%), and flagged Electronic Check payment users as a hidden churn risk (45.28%). Delivered retention recommendations backed by visual storytelling.
+`Python` `Pandas` `Seaborn` `Matplotlib`
+
+**[HR Attrition Analytics Dashboard](https://github.com/TanayAgrawal20/HR-Analytics-Dashboard)**
+Built an interactive Power BI dashboard analyzing attrition across 1,470 employee records, segmented by department, age, job role, and satisfaction — with DAX-based KPIs making risk areas explorable for non-technical stakeholders.
+`Power BI` `DAX` `Power Query`
+
+**[Bank Loan Risk Analysis](https://github.com/TanayAgrawal20/Loan-Risk-Analysis)**
+Investigated 148K+ loan records with SQL to isolate high-risk borrower segments — including a 65% default rate for Extreme LTV loans and 38% for Severe DTI borrowers. Built an Excel KPI dashboard for stakeholder review.
+`SQL` `Excel`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TanayAgrawal20&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanayAgrawal20&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanayAgrawal20&layout=compact&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to discussing data analytics projects, internships, or collaboration opportunities.
+
+📧 **agrawaltanay21@gmail.com**
